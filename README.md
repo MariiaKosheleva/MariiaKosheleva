@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mariia</h1>
 <h3 align="center">A passionate Java Software Engineer from Ukraine</h3>
 
-- ⚡ Fun fact **Also I'm a pastry chef.**
+- ⚡ Just fun fact about me -> ** also I'm a pastry chef.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
