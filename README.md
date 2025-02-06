@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey there 👋, I'm Mariia</h1>
 <h3 align="center">A passionate Java Software Engineer from Ukraine</h3>
 
@@ -13,4 +14,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariiakosheleva&show_icons=true&locale=en&layout=compact" alt="mariiakosheleva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariiakosheleva&show_icons=true&locale=en" alt="mariiakosheleva" /></p>
