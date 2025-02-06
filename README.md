@@ -1,8 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Mariia</h1>
 <h3 align="center">A passionate Java Software Engineer from Ukraine</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariiakosheleva&label=Profile%20views&color=0e75b6&style=flat" alt="mariiakosheleva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariiakosheleva" alt="mariiakosheleva" /></a> </p>
 
 - ⚡ Fun fact **Also I'm a pastry chef.**
 
